@@ -77,7 +77,7 @@ personalMovieDB.start();
 //             let lastfilm = prompt("Один из последних фильмов?", "");
 //             let filmRating = prompt("На сколько оцените его?", "");
             
-//             if (lastfilm != "" && filmRating != "" && lastfilm != null && filmRating != null && lastfilm.length < 50) {
+//  if (lastfilm != "" && filmRating != "" && lastfilm != null && filmRating != null && lastfilm.length < 50) {
                 
 //                 personalMovieDB.movies[lastfilm] = filmRating;
 //                 console.log("верно");
