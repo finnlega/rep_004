@@ -10,7 +10,7 @@ let numberOfFilms;
 //     }
 
 // }
-
+ const america = '';
 
 
 let personalMovieDB = {
